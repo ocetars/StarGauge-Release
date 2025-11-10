@@ -4,7 +4,7 @@
   
   **崩坏:星穹铁道角色评分小程序**
 
-[![崩坏星穹铁道](https://img.shields.io/badge/崩坏星穹铁道-FF6B9D?style=flat-square)](https://sr.mihoyo.com/) ![QQ群:1056385842](https://img.shields.io/badge/QQ群-1056385842-07C160?style=flat-square&logo=qq&color=blue) [![Taro](https://img.shields.io/badge/Taro-4-07C160?style=flat-square&logo=taro)](https://taro.zone/)
+[![崩坏星穹铁道](https://img.shields.io/badge/崩坏星穹铁道-FF6B9D?style=flat-square)](https://sr.mihoyo.com/) [![QQ群:1056385842](https://img.shields.io/badge/QQ群-1056385842-07C160?style=flat-square&logo=qq&color=blue)](https://qm.qq.com/q/lFgYOwzHpu) [![Taro](https://img.shields.io/badge/Taro-4-07C160?style=flat-square&logo=taro)](https://taro.zone/)
 
 _现代化、无广告的角色养成评估工具,欣赏你的完美练度_
 
