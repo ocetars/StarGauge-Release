@@ -10,7 +10,7 @@ _现代化、无广告的角色养成评估工具,助你欣赏完美练度_
 
 </div>
 
-<div style="display: flex; gap: 30px; justify-content: center;">
+<div align="center">
 <img src="docs/main.JPG" alt="StarGauge 小程序码" width="180" />
 <img src="docs/detail.JPG" alt="StarGauge 小程序码" width="180" />
 </div>
