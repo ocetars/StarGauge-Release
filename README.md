@@ -84,7 +84,7 @@ _现代化、无广告的角色养成评估工具,欣赏你的完美练度_
 ## 📮 联系
 
 遇到问题或有建议?
-- 加入QQ群聊：1056385842
+- 🐧 [加入QQ群聊：1056385842](https://qm.qq.com/q/lFgYOwzHpu)
 - 🐛 [提交 Bug](../../issues/new?labels=bug)
 - 💡 [功能建议](../../issues/new?labels=enhancement)
 - ⭐ 觉得好用?请给个 Star!
