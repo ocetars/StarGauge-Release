@@ -10,6 +10,11 @@ _现代化、无广告的角色养成评估工具,助你欣赏完美练度_
 
 </div>
 
+<div style="display: flex; gap: 30px; justify-content: center;">
+<img src="docs/main.JPG" alt="StarGauge 小程序码" width="180" />
+<img src="docs/detail.JPG" alt="StarGauge 小程序码" width="180" />
+</div>
+
 ---
 
 ## 📲 立即使用
@@ -18,13 +23,13 @@ _现代化、无广告的角色养成评估工具,助你欣赏完美练度_
   
   ### 微信/QQ 扫码体验
   
-  <img src="docs/qrCode.jpg" alt="StarGauge 小程序码" width="280" />
+  <img src="docs/qrCode.jpg" alt="StarGauge 小程序码" width="200" />
   
   *开始收集你的角色吧！*
   
 </div>
 
-## 🌟 功能特色
+## 🌟 功能
 
 <table>
 <tr>
@@ -69,14 +74,14 @@ _现代化、无广告的角色养成评估工具,助你欣赏完美练度_
 </tr>
 </table>
 
-## 💡 为什么选择 StarGauge?
+## 💡 优势
 
 - ✨ **准确**: 基于游戏机制的科学评分算法
 - 🚀 **快速**: 输入 UID 即可获取所有角色数据
 - 🎨 **美观**: 纯净、现代化的 UI 设计
 - 🔒 **安全**: 仅读取公开游戏数据,不涉及账号安全
 
-## 📮 联系StarGauge
+## 📮 联系
 
 遇到问题或有建议?
 - 加入QQ群聊：1056385842
