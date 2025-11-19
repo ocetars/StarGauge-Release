@@ -34,8 +34,8 @@ _现代化、无广告的角色养成评估工具,欣赏您的完美练度_
 <div align="center">
 
 <table>
-<tr style="background-color: transparent;">
-<td width="50%" style="background-color: transparent;">
+<tr>
+<td width="50%">
 
 ### 智能评分系统
 
@@ -45,7 +45,7 @@ _现代化、无广告的角色养成评估工具,欣赏您的完美练度_
 - 配装合理性评估
 
 </td>
-<td width="50%" style="background-color: transparent;">
+<td width="50%">
 
 ### 数据可视化
 
@@ -56,8 +56,8 @@ _现代化、无广告的角色养成评估工具,欣赏您的完美练度_
 
 </td>
 </tr>
-<tr style="background-color: transparent;">
-<td width="50%" style="background-color: transparent;">
+<tr>
+<td width="50%">
 
 ### 便捷管理
 
@@ -67,7 +67,7 @@ _现代化、无广告的角色养成评估工具,欣赏您的完美练度_
 - 一键刷新数据
 
 </td>
-<td width="50%" style="background-color: transparent;">
+<td width="50%">
 
 ### 角色全览
 
@@ -90,7 +90,7 @@ _现代化、无广告的角色养成评估工具,欣赏您的完美练度_
 - 💡 [功能建议](../../issues/new?labels=enhancement)
 - ⭐ 觉得好用?请给个 Star!
 
-## 许可协议
+## 📄 许可协议
 
 Copyright © 2024 StarGauge. All rights reserved.
 
